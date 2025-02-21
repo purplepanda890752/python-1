@@ -5,4 +5,5 @@ while var > 0:
       continue
       print("\n current variable value :",var)
       print("")
+
       
